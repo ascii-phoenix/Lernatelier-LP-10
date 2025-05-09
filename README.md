@@ -12,3 +12,8 @@ Um das zu lösen, habe ich nach einigen Versuchen den **VRAM vervierfacht**. Au�
 
 ```bash
 sudo apt install cifs-utils
+```
+- [x] Sicherheitspunkte erstellt
+- [x] thunderbird über bash herunterladen.
+- [x] LA_187_0704_Softwarelizenzen
+- [x] LA_187_0709_IT-Grundschutz
