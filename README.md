@@ -13,7 +13,10 @@ Um das zu lösen, habe ich nach einigen Versuchen den **VRAM vervierfacht**. Au�
 ```bash
 sudo apt install cifs-utils
 ```
-- [x] Sicherheitspunkte erstellt
-- [x] thunderbird über bash herunterladen.
+## 09.05.2025
+- [x] Sicherheitspunkte erstellt (VM)
+- [x] thunderbird über bash herunterladen (VM)
 - [x] LA_187_0704_Softwarelizenzen
 - [x] LA_187_0709_IT-Grundschutz
+
+Im Rahmen eines Tests habe ich heute in der VM den Befehl rm -fr */ ausgeführt, um zu prüfen, wie sich das System verhält, wenn alle Verzeichnisse im aktuellen Pfad gelöscht werden. Dieser Test diente dem besseren Verständnis von Linux-Kommandos und deren Auswirkungen. Da es sich um eine isolierte VM handelt, war dies ein sicherer Rahmen für solche Experimente. Danach habe ich die VM durch einen erstellten Sicherheitspunkt problemlos wiederherstellen können.
