@@ -25,3 +25,12 @@ Im Rahmen eines Tests habe ich heute in der VM den Befehl rm -fr */ ausgeführt,
 - [x] LA_187_0712_Datentraeger
 - [x] Arche iso instaliren auf vm
 - [ ] Run a virtual machine (VM) inside another VM
+##23.05.2025
+
+- [x] LA_187_0716_Betriebssystem-Tools.docx Datei
+- [x] LA_187_0714_BenutzerGruppen.docx Datei
+- [x] LA_187_0713_Datenablage.docx Datei
+- [x] LA_187_0711_Dateisysteme.docx
+Am 23.05.2025 habe ich mehrere LA-Dokumente zum Thema Betriebssysteme bearbeitet und abgeschlossen: LA_187_0716_Betriebssystem-Tools, LA_187_0714_BenutzerGruppen, LA_187_0713_Datenablage sowie LA_187_0711_Dateisysteme. Dabei konnte ich mein Wissen über Dateisysteme, Benutzer- und Gruppenverwaltung sowie verschiedene System-Tools vertiefen. Besonders interessant war der Vergleich unterschiedlicher Dateisysteme und deren Einsatzgebiete. Ich habe gelernt, wie man Zugriffsrechte effizient verwaltet und wie Betriebssystem-Tools zur Systemanalyse und -wartung eingesetzt werden. Die strukturierte Datenablage und die Rechtevergabe bei mehreren Nutzern in einem System wurden dabei besonders deutlich. Insgesamt konnte ich heute viele theoretische Inhalte mit praktischen Beispielen verknüpfen und mein Verständnis festigen.
+
+
