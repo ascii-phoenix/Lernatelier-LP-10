@@ -26,7 +26,7 @@ Im Rahmen eines Tests habe ich heute in der VM den Befehl rm -fr */ ausgeführt,
 - [x] Arche iso instaliren auf vm
 - [ ] Run a virtual machine (VM) inside another VM
 
-##23.05.2025
+## 23.05.2025
 
 - [x] LA_187_0716_Betriebssystem-Tools.docx Datei
 - [x] LA_187_0714_BenutzerGruppen.docx Datei
