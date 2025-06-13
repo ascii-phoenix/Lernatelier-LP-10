@@ -34,4 +34,9 @@ Im Rahmen eines Tests habe ich heute in der VM den Befehl rm -fr */ ausgeführt,
 - [x] LA_187_0711_Dateisysteme.docx
 Am 23.05.2025 habe ich mehrere LA-Dokumente zum Thema Betriebssysteme bearbeitet und abgeschlossen: LA_187_0716_Betriebssystem-Tools, LA_187_0714_BenutzerGruppen, LA_187_0713_Datenablage sowie LA_187_0711_Dateisysteme. Dabei konnte ich mein Wissen über Dateisysteme, Benutzer- und Gruppenverwaltung sowie verschiedene System-Tools vertiefen. Besonders interessant war der Vergleich unterschiedlicher Dateisysteme und deren Einsatzgebiete. Ich habe gelernt, wie man Zugriffsrechte effizient verwaltet und wie Betriebssystem-Tools zur Systemanalyse und -wartung eingesetzt werden. Die strukturierte Datenablage und die Rechtevergabe bei mehreren Nutzern in einem System wurden dabei besonders deutlich. Insgesamt konnte ich heute viele theoretische Inhalte mit praktischen Beispielen verknüpfen und mein Verständnis festigen.
 
-
+## 13.06.2025
+- [x] Durchgehen von meinem Biliaedspiel
+- [X] Billard Queue folgt meiner maus
+- [ ] Billard Queue kann Pool Ball bewegen
+- [ ] Bugfixes
+Heute habe ich an meinem digitalen Billardspiel weitergearbeitet. Ich konnte erreichen, dass der Queue der Mausbewegung folgt, allerdings ist er noch um ein paar Pixel nach rechts verschoben – dadurch wirkt die Steuerung ungenau. Der Ball lässt sich aktuell noch nicht durch den Queue bewegen, da die Kollisionserkennung oder der Impuls noch nicht korrekt implementiert sind. Auch einige kleinere Bugs sind noch offen.
